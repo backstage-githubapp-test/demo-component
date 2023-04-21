@@ -7,5 +7,5 @@ metadata:
 
 spec:
   type: service
-  owner: rpredd1
+  owner: demo-team
   lifecycle: production
