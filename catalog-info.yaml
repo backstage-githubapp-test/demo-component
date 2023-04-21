@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  title: Orders API
+  name: orders-api
+  description: This is a dummy orders api
+
+spec:
+  type: service
+  owner: rpredd1
+  lifecycle: production
