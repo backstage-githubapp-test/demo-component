@@ -4,7 +4,8 @@ metadata:
   title: Orders API
   name: orders-api
   description: This is a dummy orders api
-
+  annotations:
+    github.com/project-slug: backstage-githubapp-test/demo-component
 spec:
   type: service
   owner: rpredd1
