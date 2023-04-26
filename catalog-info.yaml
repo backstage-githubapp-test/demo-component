@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  title: Orders API
-  name: orders-api
-  description: This is a dummy orders api
+  title: Public API
+  name: public-api
+  description: This is a dummy public api
   annotations:
-    github.com/project-slug: backstage-githubapp-test/demo-component
+    github.com/project-slug: backstage-githubapp-test/public-api
 spec:
   type: service
   owner: demo-team
